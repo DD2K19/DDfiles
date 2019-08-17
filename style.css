@@ -1,0 +1,44 @@
+body{
+  background-color: #badfdb;
+}
+
+hr{
+border-style: none;
+border-top-style: dotted;
+border-color: grey;
+border-width: 5px;
+width: 10%;
+background-color: #badfdb
+}
+
+h1{
+  color: #45b29a;
+  font: 1.2em "Fira Sans", serif;
+  font-size: 50px;
+}
+h3{
+  color: #45b29a;
+  font: 1.2em "Fira Sans", serif;
+}
+
+a{
+  text-decoration: none;
+  color: #ecfcff;
+  font: italic 1.2em "Fira Sans", serif;
+}
+
+p{
+  font: italic 1.2em "Fira Sans", serif;
+}
+
+ol{
+  font: 1.2em "Fira Sans", serif;
+}
+
+ul{
+  font: 1.2em "Fira Sans", serif;
+}
+
+table{
+  font: 1.2em "Fira Sans", serif;
+}
